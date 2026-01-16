@@ -14,3 +14,10 @@ I am a Master's student at KISD, TH Köln, and I am in the process of completing
 - https://www.siteinspire.com/
 - https://martinwecke.de/
 - https://big.dk/
+
+## Notes
+### 16.01.2026
+- Wolfgang Jonas, Research as Design, Research through Design - Pointing Cybernetics towards Design Research
+- Donal Schön, Reflecting on action: https://libguides.hull.ac.uk/reflectivewriting/schon
+- PHD: Research Question, Find your Gap, Field od Inquiry. Define Methodology, possible to have at least two supervisors
+- Thomas Thwaites: The Toaster Project - Practice Based Research
